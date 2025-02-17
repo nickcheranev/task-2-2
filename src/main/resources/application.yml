@@ -1,0 +1,48 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+
+  jpa:
+    generate-ddl: false
+    show-sql: false
+    hibernate:
+      ddl-auto: none
+
+  h2:
+    console:
+      path: /h2-console
+      settings:
+        web-allow-others: true
+
+  shell:
+    interactive:
+      enabled: true
+
+  banner:
+    # Файл баннера
+    location: banner.txt
+
+  output:
+    ansi:
+      # Цветной вывод в консоль
+      enabled: ALWAYS
+
+logging:
+  level:
+    root: info
+#    ru:
+#      diasoft:
+#        ncheranev:
+#          otus: info
+#    org:
+#      jdbc:
+#        datasource:
+#          init: debug
+#      hibernate:
+#        SQL: debug
+#        orm:
+#          jdbc:
+#            bind: trace
+#          results:
+#            graph:
+#              AST: debug
