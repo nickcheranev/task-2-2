@@ -1,0 +1,13 @@
+create sequence authors_seq start with 1;
+create sequence books_seq start with 1;
+create sequence comments_seq start with 1;
+create sequence genres_seq start with 1;
+create table authors (id bigint not null, name varchar(255), primary key (id));
+create table book_author (author_id bigint not null, book_id bigint not null, primary key (author_id, book_id));
+create table books (id bigint not null, genre_id bigint, title varchar(255) not null, primary key (id));
+create table comments (id bigint not null, book_id bigint not null, text varchar(255) not null, primary key (id));
+create table genres (id bigint not null, name varchar(255) not null, primary key (id));
+alter table if exists book_author add constraint book_author_author_id_fk foreign key (author_id) references authors;
+alter table if exists book_author add constraint book_author_book_id_fk foreign key (book_id) references books;
+alter table if exists books add constraint books_genres_fk foreign key (genre_id) references genres;
+alter table if exists comments add constraint comments_books_fk foreign key (book_id) references books;

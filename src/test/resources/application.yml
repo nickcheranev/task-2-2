@@ -1,0 +1,24 @@
+spring:
+  shell:
+    interactive:
+      enabled: false
+
+logging:
+  level:
+    ru:
+      diasoft:
+        ncheranev:
+          otus: debug
+    org:
+      springframework:
+        test:
+          context:
+            jdbc: debug
+      hibernate:
+        SQL: debug
+        orm:
+          jdbc:
+            bind: trace
+          results:
+            graph:
+              AST: debug
