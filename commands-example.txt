@@ -1,0 +1,23 @@
+all-books
+add-author "Роберт Мартин"
+add-genre Программирование
+add-book "Чистый код" "Роберт Мартин" Программирование
+add-book "Чистая архитектура" "Роберт Мартин" Программирование
+all-books-by-author "Роберт Мартин"
+all-books-by-genre Программирование
+delete-book-by-id 10
+add-book "Книга без автора и жанра"
+
+add-author "Крис Ричардсон"
+add-book "Микросервисы. Паттерны разработки и рефакторинга" "Крис Ричардсон" Программирование
+all-authors
+delete-author-by-id 10
+
+add-genre Интернет
+all-genres
+delete-genre-by-id 1
+
+all-comments-by-book "Чистый код"
+add-comment "Чистый код" "текст комментария 1"
+add-comment "Чистый код" "текст комментария 2"
+delete-comment-by-id 1

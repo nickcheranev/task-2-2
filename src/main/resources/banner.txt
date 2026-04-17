@@ -1,0 +1,24 @@
+
+${AnsiBackground.YELLOW}                                  bbbbbbbb                                                                                               ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} LLLLLLLLLLL                iiii  b::::::b                                                                                               ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} L:::::::::L               i::::i b::::::b                                                                                               ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} L:::::::::L                iiii  b::::::b                                                                                               ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} LL:::::::LL                       b:::::b                                                                                               ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                iiiiiii  b:::::bbbbbbbbb     rrrrr   rrrrrrrrr    aaaaaaaaaaaaa   rrrrr   rrrrrrrrry yyyyyy           yyyyyyy  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                i:::::i  b::::::::::::::bb   r::::rrr:::::::::r   a::::::::::::a  r::::rrr:::::::::r y:::::y         y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                 i::::i  b::::::::::::::::b  r:::::::::::::::::r  aaaaaaaaa:::::a r:::::::::::::::::r y:::::y       y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                 i::::i  b:::::bbbbb:::::::b rr::::::rrrrr::::::r          a::::a rr::::::rrrrr::::::r y:::::y     y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                 i::::i  b:::::b    b::::::b  r:::::r     r:::::r   aaaaaaa:::::a  r:::::r     r:::::r  y:::::y   y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                 i::::i  b:::::b     b:::::b  r:::::r     rrrrrrr aa::::::::::::a  r:::::r     rrrrrrr   y:::::y y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L                 i::::i  b:::::b     b:::::b  r:::::r            a::::aaaa::::::a  r:::::r                y:::::y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}   L:::::L         LLLLLL  i::::i  b:::::b     b:::::b  r:::::r           a::::a    a:::::a  r:::::r                 y:::::::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} LL:::::::LLLLLLLLL:::::L i::::::i b:::::bbbbbb::::::b  r:::::r           a::::a    a:::::a  r:::::r                  y:::::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} L::::::::::::::::::::::L i::::::i b::::::::::::::::b   r:::::r           a:::::aaaa::::::a  r:::::r                   y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} L::::::::::::::::::::::L i::::::i b:::::::::::::::b    r:::::r            a::::::::::aa:::a r:::::r                  y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW} LLLLLLLLLLLLLLLLLLLLLLLL iiiiiiii bbbbbbbbbbbbbbbb     rrrrrrr             aaaaaaaaaa  aaaa rrrrrrr                 y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                    y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                   y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                  y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                 y:::::y  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                yyyyyyy  ${AnsiBackground.DEFAULT}
+${AnsiBackground.YELLOW}                                                                                                                        ${AnsiBackground.DEFAULT}
